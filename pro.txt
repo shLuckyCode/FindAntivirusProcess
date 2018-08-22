@@ -1,0 +1,63 @@
+System Idle Process              0 Services                   0      24 K
+System                           4 Services                   0   4,664 K
+smss.exe                       512 Services                   0   1,308 K
+csrss.exe                      580 Services                   0   8,544 K
+wininit.exe                    624 Services                   0   5,892 K
+csrss.exe                      636 Console                    1   6,948 K
+services.exe                   684 Services                   0   9,708 K
+winlogon.exe                   692 Console                    1   6,576 K
+lsass.exe                      716 Services                   0  20,828 K
+lsm.exe                        728 Services                   0   8,372 K
+svchost.exe                    880 Services                   0   8,152 K
+svchost.exe                    940 Services                   0  10,640 K
+LogonUI.exe                    252 Console                    1  16,328 K
+svchost.exe                    260 Services                   0  12,040 K
+svchost.exe                    364 Services                   0   9,336 K
+svchost.exe                    380 Services                   0  41,580 K
+SLsvc.exe                      400 Services                   0  12,756 K
+svchost.exe                    432 Services                   0  16,040 K
+svchost.exe                    572 Services                   0  22,448 K
+svchost.exe                    720 Services                   0  27,308 K
+sched.exe                     1072 Services                   0   1,460 K
+svchost.exe                   1140 Services                   0  15,312 K
+spoolsv.exe                   1396 Services                   0  21,092 K
+avguard.exe                   1448 Services                   0  11,780 K
+svchost.exe                   1460 Services                   0  12,520 K
+inetinfo.exe                  1504 Services                   0  34,096 K
+IMEDICTUPDATE.EXE             1640 Services                   0   4,952 K
+sqlservr.exe                  1788 Services                   0  13,588 K
+pm2.exe                       1848 Services                   0  20,916 K
+taskeng.exe                   1156 Services                   0   9,072 K
+svchost.exe                   1876 Services                   0   7,792 K
+svchost.exe                   1900 Services                   0   4,300 K
+DSM_BMU_SOLProxy32.exe        1016 Services                   0   7,740 K
+sqlbrowser.exe                1712 Services                   0   5,428 K
+sqlwriter.exe                 1240 Services                   0  10,320 K
+svchost.exe                   2124 Services                   0  13,972 K
+svchost.exe                   2136 Services                   0   4,200 K
+node.exe                      2400 Services                   0  20,972 K
+avshadow.exe                  2712 Services                   0   7,916 K
+avmailc.exe                   2732 Services                   0   1,040 K
+avwebgrd.exe                  2744 Services                   0  10,032 K
+svchost.exe                   2788 Services                   0   7,028 K
+node.exe                      2976 Services                   0  43,160 K
+svchost.exe                   3708 Services                   0   5,640 K
+mongod.exe                    3748 Services                   0 159,476 K
+msdtc.exe                     3836 Services                   0   9,596 K
+csrss.exe                     3424                            2  13,480 K
+winlogon.exe                  4604                            2   7,868 K
+taskeng.exe                   3460                            2  11,392 K
+rdpclip.exe                   3108                            2   6,756 K
+dwm.exe                       5616                            2   6,296 K
+explorer.exe                  4872                            2  52,800 K
+BACSTray.exe                  6692                            2   5,144 K
+Oobe.exe                      6764                            2 185,808 K
+conime.exe                    4244                            2   4,976 K
+OSPPSVC.EXE                   6696 Services                   0  16,444 K
+jenkins.exe                   2988 Services                   0  19,860 K
+java.exe                      2992 Services                   0 238,632 K
+node.exe                      5156 Services                   0  72,036 K
+w3wp.exe                      4772 Services                   0  43,528 K
+cmd.exe                       1572 Services                   0   3,584 K
+tasklist.exe                  6252 Services                   0   6,696 K
+WmiPrvSE.exe                  4040 Services                   0   8,964 K
